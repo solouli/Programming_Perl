@@ -1,4 +1,4 @@
-# Programming_Perl 🐪
+# Programming_Perl 
 In this repository you can find solved exercise and notes from the course "Introduction to Bioinformatics with Perl" (IBt-UNAM / 2019-1). 
 
 # Session 01 (10/08/18)
